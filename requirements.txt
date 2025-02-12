@@ -1,1 +1,7 @@
-notebook
+Pillow
+torch
+torchvision
+transformers[torch,protobuf,tiktoken,sentencepiece]
+decord
+huggingface_hub
+ipykernel
